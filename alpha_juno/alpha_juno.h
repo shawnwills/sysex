@@ -149,7 +149,7 @@ enum alpha_juno_parameter {
 		 */
 		ALPHA_JUNO_DCO_WAVEFORM_PULSE = 3, /* 0 - 3 */
 		ALPHA_JUNO_DCO_WAVEFORM_SAWTOOTH = 4, /* 0 - 5 */
-		ALPHA_JUNO_DCO_WAVEFORH_SUB = 5, /* 0 - 5 */
+		ALPHA_JUNO_DCO_WAVEFORM_SUB = 5, /* 0 - 5 */
 		ALPHA_JUNO_DCO_RANGE = 6,
 		/*
 		 * 0 =  4'
